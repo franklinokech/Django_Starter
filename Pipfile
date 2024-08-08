@@ -8,6 +8,7 @@ django = "*"
 pillow = "*"
 django-cleanup = "*"
 django-allauth = "*"
+django-htmx = "*"
 
 [dev-packages]
 
